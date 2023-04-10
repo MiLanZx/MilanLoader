@@ -33,7 +33,7 @@ class MilanLoader extends PluginBase
             //                    fwrite($file, file_get_contents($configFolder . "/" . $config));
             //                    fclose($file);
             //                }
-            //            }
+            //            } #Gak tau Mau Ngapain
 
 
             $configFolder = str_replace("//", "/", $this->getServer()->getDataPath() . "/plugins/{$name}/");
