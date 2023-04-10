@@ -1,0 +1,6 @@
+name: MilanLoader
+version: 1.0
+api: 4.0.0
+main: DevMilanz\MilanLoader\MilanLoader
+author: DevMilanz
+description: MilanLoader v1.0.0 Dibuat Untuk Server MilanNetwork
